@@ -9,6 +9,9 @@ body{
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
 }
+:root{
+    --bg-color:skyblue;
+}
 .container{
     background: rgba(255, 255, 255, 0.3);
     padding: 20px;
