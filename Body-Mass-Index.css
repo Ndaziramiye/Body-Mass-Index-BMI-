@@ -10,7 +10,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 :root{
-    --bg-color:skyblue;
+    --bg-color: skyblue;
 }
 .container{
     background: rgba(255, 255, 255, 0.3);
