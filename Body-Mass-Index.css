@@ -11,6 +11,8 @@ body{
 }
 :root{
     --bg-color: skyblue;
+    --bg-hover-color: rgb(18, 156, 211);
+
 }
 .container{
     background: rgba(255, 255, 255, 0.3);
